@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@plugin 'daisyui' {
+    themes:
+            light,
+            dark,
+            dim --prefersdark,
+            aqua,
+            nord,
+            synthwave,
+            forest,
+            dracula,
+            night,
+            coffee,
+            emerald --default;
+}
+
+button {
+    @apply rounded-3xl;
+}
