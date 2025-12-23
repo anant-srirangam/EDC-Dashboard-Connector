@@ -1,6 +1,0 @@
-{
-  "edc.datasource.default.url": "jdbc:postgresql://postgres-edc:5432/edc_db",
-  "edc.datasource.default.user": "edc_user",
-  "edc.datasource.default.password": "edc_password",
-  "edc.identity.hub.hostname": "identity-hub"
-}
