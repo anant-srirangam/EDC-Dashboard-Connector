@@ -1,0 +1,4 @@
+{
+  "did:web:host.docker.internal%3A17083":  "http://host.docker.internal:18192/protocol",
+  "did:web:host.docker.internal%3A27083":  "http://host.docker.internal:28192/protocol"
+}
